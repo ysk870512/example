@@ -17,3 +17,5 @@ Compile and build
 $ npm run build
 ```
 
+
+![](1.png)
